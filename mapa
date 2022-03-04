@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30319213867188,
+          26.01482928993099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5f84f",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19607543945312,
+          26.302033130758726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5d2727",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1397705078125,
+          26.518506504902675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ee1111",
+        "marker-size": "medium",
+        "marker-symbol": "beer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14389038085938,
+          26.754194629270284
+        ]
+      }
+    }
+  ]
+}
